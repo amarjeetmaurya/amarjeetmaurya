@@ -1,5 +1,9 @@
 ### 💫 About Me:
+
 I'm an aspiring software engineer with a passion for building impactful solutions. From understanding machine-level bits to architecting full-scale applications, I strive to create something meaningful with the superpowers I've gained through learning.
+<p align="center">
+  <img src="assets/robot.gif" alt="Centered Demo" width="200"/>
+</p>
 
 
 ### 💻 Tech Stack:
