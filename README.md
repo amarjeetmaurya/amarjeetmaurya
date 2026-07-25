@@ -1,5 +1,4 @@
-<h2 align="center"> Hi 👋, I'm Amarjeet </h2>
-<h3 align="center">A Software Developer from India</h3>
+<img align="right" alt="Coding" width="100%" src="assets/banner.svg">
 <img align="right" alt="Coding" width="180" src="assets/pro.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetmaurya&label=Profile%20views&color=0e75b6&style=flat" /> </p>
