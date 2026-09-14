@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 230" font-family="'JetBrains Mono', 'Fira Code', Consolas, Menlo, Monaco, monospace" width="100%" height="auto">
   <style>
-    .cardBg { fill: #07080a; stroke: #1c1e24; stroke-width: 1.5; rx: 10; }
+    .cardBg { fill: #0d1117; }
     .cliPrompt { fill: #34d399; font-weight: 700; font-size: 13.5px; }
     .cliPath { fill: #475569; font-size: 11.5px; font-weight: 500; }
   </style>
 
-  <!-- Deep Dark Black Background with Inset Stroke -->
-  <rect x="0.75" y="0.75" width="978.5" height="228.5" rx="10" class="cardBg" />
+  <!-- Deep Dark Black Background -->
+  <rect width="980" height="230" class="cardBg" />
 
   <!-- Window Header Bar: Native Linux CLI Prompt -->
   <text x="25" y="24" class="cliPrompt">&gt;_</text>
   <text x="48" y="24" class="cliPath">amarjeet@linux: ~/tech-stack</text>
-  <line x1="0" y1="36" x2="980" y2="36" stroke="#15171d" stroke-width="1" />
+  <line x1="0" y1="36" x2="980" y2="36" stroke="#21262d" stroke-width="1" />
 
   <!-- Balanced Flowing Badges on Dark Canvas -->
   <g transform="translate(28, 56)">
